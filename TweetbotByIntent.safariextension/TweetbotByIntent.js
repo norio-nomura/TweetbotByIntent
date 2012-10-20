@@ -33,7 +33,7 @@ if (window.top === window) {
         var status = window.document.getElementById('status')
         if (status && status.textContent) {
           window.location.replace(window.location + '#status');
-          window.location = 'echofon:' + encodeURIComponent(status.textContent);
+          window.location = 'tweetbot:///post?text=' + encodeURIComponent(status.textContent);
           window.setTimeout(function () {window.close();}, 500);
         }
       }
