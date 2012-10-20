@@ -1,3 +1,13 @@
+Tweetbot By Intent
+=================
+Browser Extension TweetButton calls Tweetbot.
+Download
+--------
+- Safari Extension [TweetbotByIntent-1.0.safariextz](http://github.com/downloads/norio-nomura/TweetbotByIntent/TweetbotByIntent-1.0.safariextz)
+- Chrome Extension [TweetbotByIntent](https://chrome.google.com/webstore/detail/iknjicpekfgcmbmoihidhnkjpdmphapf)
+
+License
+-------
 	(The WTFPL)
 	
 	            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
